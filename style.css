@@ -1,0 +1,58 @@
+/*Reset default browser spacing */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/*Header*/
+header {
+     background-color; #ffb6d9;
+     color: rgb(156, 52, 134);
+     padding: 20px;
+     text-align: center;
+}
+
+/*Navigation*/
+nav {
+   background-color: #ff8fcf;
+   padding: 10px;
+   text-alingn: center;
+}
+
+ nav a {
+      color: white;
+      text decoration: none;
+      margin: 0 15px
+      font weight: bold;
+}
+ nav a:hover {
+     text-decoration: underline;
+}
+
+/Main content*/
+main {
+     padding: 20px;
+}
+/*Section*/
+section {
+     background-color: #fff0f7;
+     padding: 15px;
+     margin top: 10px;
+     border-radius: 5px;
+}
+/*Products*/
+.product{
+    border: 1 px solid #ffcce6;
+    padding: 10px;
+margin-top: 10px;
+border-radius: 5px
+}
+
+/*Footer*/
+footer{
+     background-color: #ff8fcf;
+     Color: azure
+     Text-align: center;
+     padding: 10px;
+}
